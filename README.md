@@ -26,5 +26,5 @@ python3 myfile.py
 - should have basic knowledge in python
 
 # Copyright & License
-© 2022 Suresh. P 
+© 2022 Suresh Pandiyan 
 Code released under MIT License
